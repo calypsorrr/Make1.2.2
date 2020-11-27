@@ -28,7 +28,7 @@ def main():
     pick = input()
 
 
-    # # Reverse 90 degrees
+    # Reverse 90 degrees
     if pick == "1":
         for x in range(6):                                 # 6 values bij the X-comme
             for y in range(9):                             # 9 values bij the Y-comme
